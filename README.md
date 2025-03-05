@@ -1,4 +1,6 @@
 # vexel-os
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhello-os589%2FVexlium-OS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhello-os589%2FVexlium-OS?ref=badge_shield)
+
 <p align="center">
  <a href="README.md">简体中文</a> / <a href="README_en-us.md">English</a>
 </p>
@@ -10,3 +12,7 @@
 </p>
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhello-os589%2FVexlium-OS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhello-os589%2FVexlium-OS?ref=badge_large)
