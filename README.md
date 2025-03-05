@@ -1,4 +1,4 @@
-# vexel-os
+# Vexlium-OS
 <p align="center">
  <a href="README.md">简体中文</a> / <a href="README_en-us.md">English</a>
 </p>
